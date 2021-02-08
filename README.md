@@ -10,3 +10,6 @@ to create a radiometric thermal map of the entire site or detect the strings whe
 might require a closer look. The hotspots are detected using thermal and RGB cameras, which
 are post-processed using computer vision. This data can be provided to technicians for repairing
 panels.
+
+
+The file motion contains the test script to test AStar algo for a no obstacle solar farm. It can be modilfied to work wih obstacles.
