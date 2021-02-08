@@ -13,3 +13,6 @@ panels.
 
 
 The file motion contains the test script to test AStar algo for a no obstacle solar farm. It can be modilfied to work wih obstacles.
+
+
+NOTE: More work has to be done and Project is currently in progress.
