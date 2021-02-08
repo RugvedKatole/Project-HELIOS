@@ -29,4 +29,3 @@ end
 % Uncomment following line to run Astar
 %[route, numExpanded] = AStarGrid (map, start_coords, dest_coords);
 
-%HINT: With default start and destination coordinates defined above
